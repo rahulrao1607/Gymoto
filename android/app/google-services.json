@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022777073654",
+    "project_id": "gymoto-b05a8",
+    "storage_bucket": "gymoto-b05a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022777073654:android:f849185b80c919c486b1d7",
+        "android_client_info": {
+          "package_name": "com.example.gymoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022777073654-mhj1somhui5bhs9adhban1242jkhr1sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGW4pyh-dlPY0J6lX3UuBSh_jMmEYbrtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022777073654-mhj1somhui5bhs9adhban1242jkhr1sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
